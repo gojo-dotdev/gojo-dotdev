@@ -5,6 +5,8 @@
 <p>
 <img align="left" style="margin-right:1rem;margin-top:0.8rem;" src="https://img.shields.io/badge/I'm currently learning-2185BA?style=for-the-badge"> </p>
 <p>
+<br/>
+<br/>
   <img align="left" src="https://skillicons.dev/icons?i=aws,azure,docker,nodejs,js,kubernetes,dotnet,prometheus,grafana,graphql,terraform,linux">
 </p>
 
