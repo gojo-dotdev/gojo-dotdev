@@ -1,4 +1,11 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/6f4e72a0-8d8d-4b31-b653-748c4e781ab9" width="30%"/>
+
+## Hello there! 👋 
+
+<p>
+<img align="left" style="margin-right:1rem;margin-top:0.8rem;" src="https://img.shields.io/badge/I'm currently learning-2185BA?style=for-the-badge">
+<img align="left" src="https://skillicons.dev/icons?i=aws,azure,docker,nodejs,js,kubernetes,dotnet,prometheus,grafana,graphql,terraform,linux&perline=4">
+</p>
 
 <!--
 **gojo-dotdev/gojo-dotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
