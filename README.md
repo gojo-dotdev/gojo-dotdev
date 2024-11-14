@@ -7,7 +7,7 @@
 <p>
 <br/>
 <br/>
-  <img align="left" src="https://skillicons.dev/icons?i=aws,azure,docker,nodejs,js,kubernetes,dotnet,prometheus,grafana,graphql,terraform,linux">
+  <img align="left" src="https://skillicons.dev/icons?i=aws,azure,docker,nodejs,js,kubernetes,dotnet,prometheus,grafana,graphql,terraform,linux,py,mongodb,githubactions">
 </p>
 
 <!--
